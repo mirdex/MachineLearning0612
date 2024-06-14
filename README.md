@@ -12,3 +12,4 @@
 
 #### 課程大綱
 - [1. Numpy Review](http://mirdex.github.io/MachineLearning0612/1.%20Numpy%20總複習1_Q.slides.html)
+- [2. Numpy Advance](http://mirdex.github.io/MachineLearning0612/2.%20NumPy_Q.slides.html)
