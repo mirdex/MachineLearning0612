@@ -17,3 +17,4 @@
 - [4. Pandas Advance](http://mirdex.github.io/MachineLearning0612/4.%20Pandas_Q.slides.html)
 - [5. Machine Learning Introduction](http://mirdex.github.io/MachineLearning0612/5.Machine%20Learning%20Introduction.slides.html)
 - [6. 淺談影像識別](http://mirdex.github.io/MachineLearning0612/6.淺談影像識別_Q.slides.html)
+- [7. Data Progress Theory](http://mirdex.github.io/MachineLearning0612/7.%20Data%20Progress%20Theory_Q.slides.html)
