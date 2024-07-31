@@ -22,3 +22,4 @@
 - [9. KNN](http://mirdex.github.io/MachineLearning0612/9.KNN_Q.slides.html)
 - [10. KNN_Advance](http://mirdex.github.io/MachineLearning0612/10.%20KNN_Advance_Q.slides.html)
 - [11. Association_Rule](http://mirdex.github.io/MachineLearning0612/11.%20Association%20Rule_Q.slides.html)
+- [12. Naive Bayes Classification](http://mirdex.github.io/MachineLearning0612/12.%20Naive%20Bayes%20Classification_Q.slides.html)
