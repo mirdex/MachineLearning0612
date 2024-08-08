@@ -26,3 +26,4 @@
 - [13. Decision Tree](http://mirdex.github.io/MachineLearning0612/13.%20Decision%20Tree_Q.slides.html)
 - [14. Cluster](http://mirdex.github.io/MachineLearning0612/14.%20Cluster_Q.slides.html)
 - [15. Regression](http://mirdex.github.io/MachineLearning0612/16.%20Regression_Q.slides.html)
+- [16. Sequential Pattern](http://mirdex.github.io/MachineLearning0612/15.%20Sequential%20Pattern_Q.slides.html)
